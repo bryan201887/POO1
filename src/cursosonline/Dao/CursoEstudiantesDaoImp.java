@@ -18,7 +18,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class CursoEstudiantesDaoImp implements CursoEstudianteDao{
 

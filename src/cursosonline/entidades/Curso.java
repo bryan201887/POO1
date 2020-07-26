@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class Curso {
   private int id;

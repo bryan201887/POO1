@@ -5,7 +5,7 @@ package curso.util;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 
 public class util {

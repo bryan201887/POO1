@@ -17,7 +17,7 @@ import cursosonline.entidades.Estudiantes;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class Prueba {
 

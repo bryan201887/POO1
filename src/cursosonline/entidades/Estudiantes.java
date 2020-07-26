@@ -10,7 +10,7 @@ import java.util.List;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class Estudiantes {
      private int id;

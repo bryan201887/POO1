@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public interface CursoEstudianteDao {
      List<CursosEstudiantes> getCursEstudiantes();

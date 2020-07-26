@@ -12,7 +12,7 @@ import java.util.List;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public interface CursoDao {
     List<Curso> getCursos();

@@ -7,7 +7,7 @@ package cursosonline.entidades;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class CursosEstudiantes {
     int id;

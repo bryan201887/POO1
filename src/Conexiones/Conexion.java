@@ -14,7 +14,7 @@ import javax.rmi.CORBA.Util;
 
 /**
  *
- * @author Antum
+ * @author Bryan Villacicencio
  */
 public class Conexion {
  
